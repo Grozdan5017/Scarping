@@ -1,0 +1,37 @@
+[
+    {
+        "link": "https://hh.ru/vacancy/92116169",
+        "price_from": null,
+        "price_to": null,
+        "company_name": "Иви",
+        "city": "Москва"
+    },
+    {
+        "link": "https://hh.ru/vacancy/101923320",
+        "price_from": 300000,
+        "price_to": null,
+        "company_name": "BIGIDEA NETWORK FZ-LLC",
+        "city": "Москва"
+    },
+    {
+        "link": "https://hh.ru/vacancy/99677121",
+        "price_from": 100000,
+        "price_to": null,
+        "company_name": "ЛИГРЕС",
+        "city": "Санкт-Петербург"
+    },
+    {
+        "link": "https://hh.ru/vacancy/98444719",
+        "price_from": 150000,
+        "price_to": 200000,
+        "company_name": "Селфсек",
+        "city": "Москва"
+    },
+    {
+        "link": "https://hh.ru/vacancy/93089691",
+        "price_from": null,
+        "price_to": null,
+        "company_name": "Hyper AdTech",
+        "city": "Москва"
+    }
+]
